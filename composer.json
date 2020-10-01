@@ -22,7 +22,7 @@
         "lusitanian/oauth": "*"
     },
     "require-dev": {
-        "illuminate/support": "~5"
+        "illuminate/support": "~7"
     },    
     "require-all": true,
     "extra": {
